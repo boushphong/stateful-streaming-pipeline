@@ -1,0 +1,3 @@
+confluent-kafka==1.9.2
+pyflink==1.0
+python-pip==1.1.1
